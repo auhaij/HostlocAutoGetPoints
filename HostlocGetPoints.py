@@ -18,7 +18,7 @@ class HostlocGetPoints():
         url_list = []
         # 访问小黑屋用户空间不会获得积分、生成的随机数可能会重复，这里多生成几个链接用作冗余
         for i in range(13):
-            uid = random.randint(10000, 50000)
+            uid = random.randint(50000, 58425)
             url = 'https://hostloc.com/space-uid-{}.html'.format(str(uid))
             url_list.append(url)
         return url_list
