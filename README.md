@@ -1,5 +1,5 @@
 # HostlocAutoGetPoints
-
+1
 # 此代码是在inkuang大佬的基础上稍作改变，增加了TG推送。目前原库已GG，感谢MJJ的贡献
 
 ### 推送结果
