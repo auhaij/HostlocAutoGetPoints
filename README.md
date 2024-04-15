@@ -1,5 +1,6 @@
 # HostlocAutoGetPoints
 2024年1月11日
+2024年4月15日
 日期
 # 此代码是在inkuang大佬的基础上稍作改变，增加了TG推送。目前原库已GG，感谢MJJ的贡献
 
